@@ -11,7 +11,7 @@
 
 
 
-    <title>Mapa do Site</title>
+    <title>Kubernetes - Esteira DevOps</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -36,31 +36,28 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="Desenvolvimento, Cloud e Muito DevOps" />
     <link rel="shortcut icon" href="http://localhost:4000/assets/images/ico.png" type="image/png" />
-    <link rel="canonical" href="http://localhost:4000/tag_list/" />
+    <link rel="canonical" href="http://localhost:4000/tag/kubernetes/" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="Esteira DevOps" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Mapa do Site" />
-    <meta property="og:description" content="tags > Clique na tag para ir direto ao conteúdo {% for tag in site.tags %} {{ tag[0] }} {% endfor %} {% for tag in site.tags %} {{ tag | first }} {% for post in tag[1] %} {{ post.title }} {{ post.date | date_to_string }} {% endfor %}" />
-    <meta property="og:url" content="http://localhost:4000/tag_list/" />
+    <meta property="og:title" content="Kubernetes - Esteira DevOps" />
+    <meta property="og:description" content="Desenvolvimento, Cloud e Muito DevOps" />
+    <meta property="og:url" content="http://localhost:4000/tag/kubernetes/" />
     <meta property="og:image" content="http://localhost:4000/assets/images/bg.png" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
-    <meta property="article:author" content="https://www.facebook.com/" />
-    <meta property="article:published_time" content="" />
-    <meta property="article:modified_time" content="" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Mapa do Site" />
-    <meta name="twitter:description" content="tags > Clique na tag para ir direto ao conteúdo {% for tag in site.tags %} {{ tag[0] }} {% endfor %} {% for tag in site.tags %} {{ tag | first }} {% for post in tag[1] %} {{ post.title }} {{ post.date | date_to_string }} {% endfor %}" />
+    <meta name="twitter:title" content="Kubernetes - Esteira DevOps" />
+    <meta name="twitter:description" content="Desenvolvimento, Cloud e Muito DevOps" />
     <meta name="twitter:url" content="http://localhost:4000/" />
     <meta name="twitter:image" content="http://localhost:4000/assets/images/bg.png" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Esteira DevOps" />
     <meta name="twitter:site" content="@tryghost" />
     <meta name="twitter:creator" content="@tryghost" />
-    <meta property="og:image:width" content="1400" />
-    <meta property="og:image:height" content="933" />
+    <meta property="og:image:width" content="2000" />
+    <meta property="og:image:height" content="666" />
 
     <script type="application/ld+json">
 {
@@ -71,7 +68,7 @@
         "name": "Esteira DevOps",
         "logo": "http://localhost:4000/assets/images/logo-b.png"
     },
-    "url": "http://localhost:4000/tag_list/",
+    "url": "http://localhost:4000/tag/kubernetes/",
     "image": {
         "@type": "ImageObject",
         "url": "http://localhost:4000/assets/images/bg.png",
@@ -80,9 +77,9 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://localhost:4000/tag_list/"
+        "@id": "http://localhost:4000/tag/kubernetes/"
     },
-    "description": "tags > Clique na tag para ir direto ao conteúdo {% for tag in site.tags %} {{ tag[0] }} {% endfor %} {% for tag in site.tags %} {{ tag | first }} {% for post in tag[1] %} {{ post.title }} {{ post.date | date_to_string }} {% endfor %}"
+    "description": "Desenvolvimento, Cloud e Muito DevOps"
 }
     </script>
 
@@ -95,20 +92,24 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="Mapa do Site" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Tag Page" href="/feed.xml" />
 
 
 </head>
-<body class="page-template">
+<body class="tag-template">
 
     <div class="site-wrapper">
         <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
-        <!-- < default -->
-<!-- The tag above means: insert everything in this file
-into the {body} of the default.hbs template -->
+        <!-- default -->
+<!-- The tag above means - insert everything in this file into the {body} of the default.hbs template -->
 
 <!-- The big featured header, it uses blog cover image as a BG if available -->
-<header class="site-header outer">
+<!-- #tag -->
+<!-- dynamically loading backgrounds for tags,  descriptions and page titles -->
+
+
+
+<header class="site-header outer no-cover">
     <div class="inner">
         <nav class="site-nav">
     <div class="site-nav-left">
@@ -156,102 +157,127 @@ into the {body} of the default.hbs template -->
     </div>
 </nav>
 
+        <div class="site-header-content">
+            <h1 class="site-title">Kubernetes</h1>
+            <h2 class="site-description">
+                
+    			    A collection of 1 posts
+                
+            </h2>
+        </div>
     </div>
 </header>
+<!-- tag -->
 
-<!-- Everything inside the #post tags pulls data from the post -->
-<!-- #post -->
-
-
+<!-- The main content area -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
-
-        <article class="post-full  post page no-image">
-
-            <header class="post-full-header">
-                <h1 class="post-full-title">Mapa do Site</h1>
-            </header>
-
+        <div class="post-feed">
+            <!-- The tag below includes the markup for each post - partials/post-card.hbs -->
             
 
-            <section class="post-full-content">
-                <div class="tags-expo">
-   <h2> tags </h2>
-   <p style="font-size:20px; "> &gt; Clique na tag para ir direto ao conteúdo </p>
-  <div class="tags-expo-list">
-    
-    <li> <a style="" href="#azure" class="post-tag">  azure </a> 
-    </li>
-    
-    <li> <a style="" href="#kubernetes" class="post-tag">  kubernetes </a> 
-    </li>
-    
-    <li> <a style="" href="#docker" class="post-tag">  docker </a> 
-    </li>
-    
-  </div>
 
-  <div class="tags-expo-section">
-    
-    <hr />
-    <h2 id="azure">azure</h2>
-    <ul class="tags-expo-posts">
-      
-        <a class="post-title" href="//welcome">
-      <li>
-        Welcome to Ghost
-      <small class="post-date">27 Jul 2017</small>
-      </li>
-      </a>
-      
-    </ul>
-    
-    <hr />
-    <h2 id="kubernetes">kubernetes</h2>
-    <ul class="tags-expo-posts">
-      
-        <a class="post-title" href="//welcome">
-      <li>
-        Welcome to Ghost
-      <small class="post-date">27 Jul 2017</small>
-      </li>
-      </a>
-      
-    </ul>
-    
-    <hr />
-    <h2 id="docker">docker</h2>
-    <ul class="tags-expo-posts">
-      
-        <a class="post-title" href="//welcome">
-      <li>
-        Welcome to Ghost
-      <small class="post-date">27 Jul 2017</small>
-      </li>
-      </a>
-      
-    </ul>
-    
-  </div>
-</div>
+    <article class="post-card tag-template">
+        
+            <a class="post-card-image-link" href="/welcome">
+                <div class="post-card-image" style="background-image: url(/assets/images/welcome.jpg)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/welcome">
+                <header class="post-card-header">
+                    
+                        
+                            
+                            
+                            <div style="content: "";
+                            clear: both;
+                            display: table;" class="row">
+                                
+                                <div style="float: left;
+                                width: 20px; 
+                                height:20px;
+                                padding-left: 2px;
+                                padding-right: 2px;
+                                class="column">
+                                <img src="./assets/images/tags/azure.png" alt="azure.png">
+                                </div>
+                                
+                                
+                              </div>
+                            
 
-            </section>
+                           <!-- <img src="assets/images/azure.png" alt="azure.png" width="20" height="20"> -->
+                            <!--   <span class="post-card-tags">Azure</span>-->
+                            
+                        
+                            
+                            
+                            <div style="content: "";
+                            clear: both;
+                            display: table;" class="row">
+                                
+                                <div style="float: left;
+                                width: 20px; 
+                                height:20px;
+                                padding-left: 2px;
+                                padding-right: 2px;
+                                class="column">
+                                <img src="./assets/images/tags/kubernetes.png" alt="kubernetes.png">
+                                </div>
+                                
+                                
+                              </div>
+                            
 
-        </article>
+                           <!-- <img src="assets/images/kubernetes.png" alt="kubernetes.png" width="20" height="20"> -->
+                            <!--   <span class="post-card-tags">Kubernetes</span>-->
+                            
+                        
+                            
+                                
+                                <img src="./assets/images/tags/docker.png" alt="docker.png" width="20" height="20">
+                               <!-- <span class="post-card-tags">Docker</span> -->
+                            
+                        
+                    
+                    <div>
+                    <h2 class="post-card-title">Welcome to Ghost</h2>
+                    </div>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p>Hey! Welcome to Ghost, it’s great to have you :)
 
+</p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/assets/images/88123247.jpg" alt="Rosthan Silva" />
+                        
+                        <span class="post-card-author">
+                            <a href="/author/ghost/">Rosthan Silva</a>
+                        </span>
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      1 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
+
+
+        </div>
     </div>
 </main>
-
-<!-- /post -->
-
-<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
-<script>
-$(function() {
-    var $postContent = $(".post-full-content");
-    $postContent.fitVids();
-});
-</script>
-
 
 
         <!-- Previous/next page links - displayed on every page -->
@@ -336,7 +362,7 @@ $(function() {
     <!-- Paginator increased to "infinit" in _config.yml -->
     <!-- if paginator.posts  -->
     <!-- <script>
-        var maxPages = parseInt('');
+        var maxPages = parseInt('1');
     </script>
     <script src="/assets/js/infinitescroll.js"></script> -->
     <!-- /endif -->
@@ -359,14 +385,6 @@ $(function() {
 
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
-    
-        <script>
-$(function() {
-    var $postContent = $(".post-full-content");
-    $postContent.fitVids();
-});
-</script>
-
     
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
