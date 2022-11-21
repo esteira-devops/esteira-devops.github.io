@@ -362,15 +362,73 @@
                 
                 <h1 class="subscribe-overlay-title">Inscreva-se no Esteira DevOps</h1>
                 <p class="subscribe-overlay-description">Se mantenha atualizado! Receba todas as postagens, videos &amp; tutoriais diretamente no seu inbox</p>
-                <form method="post" action="/subscribe/" class="">
-    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+                <style type="text/css" scoped>
+    .mauticform_wrapper { max-width: 600px; margin: 10px auto; color: #6f6f6f; font-weight: 400; font-family: 'Source Sans Pro', 'Helvetica Neue', 'Arial', 'sans-serif';font-size: 18px;}
+    .mauticform-innerform {}
+    .mauticform-post-success {}
+    .mauticform-name { font-weight: bold; font-size: 1.5em; margin-bottom: 3px; }
+    .mauticform-description { margin-top: 2px; margin-bottom: 10px; }
+    .mauticform-error { margin-bottom: 10px; color: red; }
+    .mauticform-message { margin-bottom: 10px;color: green; }
+    .mauticform-row { display: block; margin-bottom: 20px; }
+    .mauticform-label { font-size: 0.8em; display: block; font-weight: bold; margin-bottom: 5px; color: #14b8ff; }
+    .mauticform-row.mauticform-required .mauticform-label:after { color: #e32; content: " *"; display: inline; }
+    .mauticform-helpmessage { display: block; font-size: 0.8em; margin-bottom: 3px; }
+    .mauticform-errormsg { display: block; color: red; margin-top: 2px; }
+    .mauticform-selectbox, .mauticform-input, .mauticform-textarea { width: 100%; padding: 0.5em 0.5em; border: 0; border-bottom: 1px solid #14b8ff; background: #fff; box-sizing: border-box; }
+    .mauticform-checkboxgrp-row {}
+    .mauticform-checkboxgrp-label { font-weight: normal; }
+    .mauticform-checkboxgrp-checkbox {}
+    .mauticform-radiogrp-row {}
+    .mauticform-radiogrp-label { font-weight: normal; }
+    .mauticform-radiogrp-radio {}
+    .mauticform-button-wrapper .mauticform-button.btn-default { color: #14b8ff;background-color: #ffffff;border-color: #14b8ff;}
+    .mauticform-button-wrapper .mauticform-button { display: inline-block;margin-bottom: 0;font-weight: 600;text-align: center;vertical-align: middle;cursor: pointer;background-image: none;border: 1px solid transparent;white-space: nowrap;padding: 6px 12px;font-size: 18px;line-height: 1.3856;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
+    .mauticform-button-wrapper .mauticform-button.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd;}
+</style>
+<style type="text/css" scoped>
+    .mauticform-field-hidden { display:none }
+</style>
 
-    <div class="form-group">
-        <input class="subscribe-email" type="email" name="email"  placeholder="seumelhoremail@xpto.com.br" />
-    </div>
-    <button class="" type="submit" disabled><span>Inscreva-se</span></button>
-    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
-</form>
+<div id="mauticform_wrapper_subscribers" class="mauticform_wrapper">
+    <form autocomplete="false" role="form" method="post" action="http://subs.esteiradevops.com/form/submit?formId=1" id="mauticform_subscribers" data-mautic-form="subscribers" enctype="multipart/form-data" subscribe-esteiradevops>
+        <div class="mauticform-error" id="mauticform_subscribers_error"></div>
+        <div class="mauticform-message" id="mauticform_subscribers_message"></div>
+        <div class="mauticform-innerform">
+            
+          <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+
+            <div id="mauticform_subscribers_nome" data-validate="nome" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required">
+                <label id="mauticform_label_subscribers_nome" for="mauticform_input_subscribers_nome" class="mauticform-label">Nome</label>
+                <input id="mauticform_input_subscribers_nome" name="mauticform[nome]" value="" placeholder="Seu Primeiro Nome" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;">Campo Obrigatório.</span>
+            </div>
+
+            <div id="mauticform_subscribers_sobrenome" data-validate="sobrenome" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
+                <label id="mauticform_label_subscribers_sobrenome" for="mauticform_input_subscribers_sobrenome" class="mauticform-label">Sobrenome</label>
+                <input id="mauticform_input_subscribers_sobrenome" name="mauticform[sobrenome]" value="" placeholder="Seu Sobrenome" class="mauticform-input" type="text">
+                <span class="mauticform-errormsg" style="display: none;">Campo Obrigatório</span>
+            </div>
+
+            <div id="mauticform_subscribers_email" data-validate="email" data-validation-type="email" class="mauticform-row mauticform-email mauticform-field-3 mauticform-required">
+                <label id="mauticform_label_subscribers_email" for="mauticform_input_subscribers_email" class="mauticform-label">Email</label>
+                <span class="mauticform-helpmessage">Seu Melhor email para Receber as Matérias e Videos</span>
+                <input id="mauticform_input_subscribers_email" name="mauticform[email]" value="" placeholder="Insira Seu Melhor Email Aqui" class="mauticform-input" type="email">
+                <span class="mauticform-errormsg" style="display: none;">Campo Obrigatório</span>
+            </div>
+
+            <div id="mauticform_subscribers_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-4">
+                <button type="submit" name="mauticform[submit]" id="mauticform_input_subscribers_submit" value="" class="mauticform-button btn btn-default">Enviar</button>
+            </div>
+            </div>
+        </div>
+
+        <input type="hidden" name="mauticform[formId]" id="mauticform_subscribers_id" value="1">
+        <input type="hidden" name="mauticform[return]" id="mauticform_subscribers_return" value="">
+        <input type="hidden" name="mauticform[formName]" id="mauticform_subscribers_name" value="subscribers">
+
+        </form>
+</div>
 
             </div>
         </div>
