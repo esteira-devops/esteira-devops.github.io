@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-05T10:17:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Esteira DevOps</title><subtitle>Desenvolvimento, Cloud e Muito DevOps</subtitle><entry><title type="html">DevOps em 2023 ♾️ Planos e Certificações - parte 01</title><link href="http://localhost:4000/Devops-em-2023" rel="alternate" type="text/html" title="DevOps em 2023 ♾️ Planos e Certificações - parte 01" /><published>2017-07-27T07:00:00-03:00</published><updated>2017-07-27T07:00:00-03:00</updated><id>http://localhost:4000/Devops-em-2023</id><content type="html" xml:base="http://localhost:4000/Devops-em-2023">&lt;h2 id=&quot;vamos-planejar-nossa-carreira--nesse-post-vou-falar-um-pouco-como-eu-penso-meu-planejamento-de-carreira-&quot;&gt;Vamos Planejar nossa carreira ! Nesse post vou falar um pouco como eu penso meu planejamento de carreira 😃🐳🐱☸&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/tag/carreira/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2022-12-05T10:17:00-03:00</updated>
+  <id>http://localhost:4000/tag/carreira/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Esteira DevOps | </title>
+  
+
+  
+    <subtitle>Desenvolvimento, Cloud e Muito DevOps</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">DevOps em 2023 ♾️ Planos e Certificações - parte 01</title>
+      <link href="http://localhost:4000/Devops-em-2023" rel="alternate" type="text/html" title="DevOps em 2023 ♾️ Planos e Certificações - parte 01" />
+      <published>2017-07-27T07:00:00-03:00</published>
+      <updated>2017-07-27T07:00:00-03:00</updated>
+      <id>http://localhost:4000/Devops-em-2023</id>
+      <content type="html" xml:base="http://localhost:4000/Devops-em-2023">&lt;h2 id=&quot;vamos-planejar-nossa-carreira--nesse-post-vou-falar-um-pouco-como-eu-penso-meu-planejamento-de-carreira-&quot;&gt;Vamos Planejar nossa carreira ! Nesse post vou falar um pouco como eu penso meu planejamento de carreira 😃🐳🐱☸&lt;/h2&gt;
 
 &lt;hr /&gt;
 &lt;blockquote&gt;
@@ -68,4 +107,36 @@ Outro fato importante é que essa certificação não era capitalizada então eu
 &lt;blockquote class=&quot;twitter-tweet&quot; data-partner=&quot;tweetdeck&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thanks to &lt;a href=&quot;https://twitter.com/gitlab&quot;&gt;@gitlab&lt;/a&gt; for joining &lt;a href=&quot;https://twitter.com/RailsGirlsCluj&quot;&gt;@RailsGirlsCluj&lt;/a&gt;! &lt;a href=&quot;https://t.co/NOoiqDWKVY&quot;&gt;pic.twitter.com/NOoiqDWKVY&lt;/a&gt;&lt;/p&gt;&amp;mdash; RailsGirlsCluj (@RailsGirlsCluj) &lt;a href=&quot;https://twitter.com/RailsGirlsCluj/status/784847271645028352&quot;&gt;October 8, 2016&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;/div&gt;</content><author><name>Rosthan Silva</name></author><category term="postagens" /><category term="devops" /><category term="carreira" /><summary type="html">Vamos Planejar nossa carreira ! Nesse post vou falar um pouco como eu penso meu planejamento de carreira 😃🐳🐱☸</summary></entry></feed>
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Rosthan Silva</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="postagens" />
+      
+        <category term="devops" />
+      
+        <category term="carreira" />
+      
+
+      
+        <summary type="html">Vamos Planejar nossa carreira ! Nesse post vou falar um pouco como eu penso meu planejamento de carreira 😃🐳🐱☸</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

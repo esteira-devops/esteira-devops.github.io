@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://localhost:4000/tag/postagens/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2022-11-21T02:17:47-03:00</updated>
+  <updated>2022-12-05T10:17:00-03:00</updated>
   <id>http://localhost:4000/tag/postagens/feed.xml</id>
 
   
@@ -32,27 +32,82 @@
 
   
     <entry>
-      <title type="html">Welcome to Ghost</title>
-      <link href="http://localhost:4000/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" />
+      <title type="html">DevOps em 2023 ♾️ Planos e Certificações - parte 01</title>
+      <link href="http://localhost:4000/Devops-em-2023" rel="alternate" type="text/html" title="DevOps em 2023 ♾️ Planos e Certificações - parte 01" />
       <published>2017-07-27T07:00:00-03:00</published>
       <updated>2017-07-27T07:00:00-03:00</updated>
-      <id>http://localhost:4000/welcome</id>
-      <content type="html" xml:base="http://localhost:4000/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+      <id>http://localhost:4000/Devops-em-2023</id>
+      <content type="html" xml:base="http://localhost:4000/Devops-em-2023">&lt;h2 id=&quot;vamos-planejar-nossa-carreira--nesse-post-vou-falar-um-pouco-como-eu-penso-meu-planejamento-de-carreira-&quot;&gt;Vamos Planejar nossa carreira ! Nesse post vou falar um pouco como eu penso meu planejamento de carreira 😃🐳🐱☸&lt;/h2&gt;
 
-&lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Antes de tudo, algo importante é que esse planejamento é de alguém que já tem uma senioridade considerável e vai se planejar por querer novos desafios na carreira. Tendo isso em mente, podemos começar ! Vou tentar traçar passos estratégicos para que todos possam se planejar.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h3 id=&quot;there-are-a-few-things-that-you-should-know-up-front&quot;&gt;There are a few things that you should know up-front:&lt;/h3&gt;
+&lt;h3 id=&quot;meu-primeiro-paço-nesse-planejamento-é-saber-onde-eu-estou&quot;&gt;Meu primeiro paço nesse planejamento é saber onde eu estou!&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Para isso em fiz as seguintes perguntas :&lt;/p&gt;
+
 &lt;ol&gt;
-  &lt;li&gt;Ghost is designed for ambitious, professional publishers who want to actively build a business around their content. That’s who it works best for. If you’re using Ghost for some other purpose, that’s fine too - but it might not be the best choice for you.&lt;/li&gt;
-  &lt;li&gt;The entire platform can be modified and customized to suit your needs, which is very powerful, but doing so &lt;strong&gt;does&lt;/strong&gt; require some knowledge of code. Ghost is not necessarily a good platform for beginners or people who just want a simple personal blog.&lt;/li&gt;
-  &lt;li&gt;For the best experience we recommend downloading the Ghost Desktop App for your computer, which is the best way to access your Ghost site on a desktop device.&lt;/li&gt;
+  &lt;li&gt;Qual tipo de empresa eu trabalho e o que ela espera de mim ?&lt;/li&gt;
+  &lt;li&gt;Dentro do papel que eu desempenho dentro da empresa, existe algum gap imediato que eu preciso preencher ?&lt;/li&gt;
+  &lt;li&gt;Dentro da role que eu executo tenho algum gap que eu preciso preencher ?&lt;/li&gt;
+  &lt;li&gt;O que eu &lt;strong&gt;&lt;em&gt;NÃO GOSTO DE FAZER&lt;/em&gt;&lt;/strong&gt; dentro dos fatores perguntados antes ? ( Isso é muito importante )&lt;/li&gt;
+  &lt;li&gt;O que eu gosto de fazer dos fatores perguntados antes ?&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Ghost is made by an independent non-profit organisation called the Ghost Foundation. We are 100% self funded by revenue from our &lt;a href=&quot;https://ghost.org/pricing&quot;&gt;Ghost(Pro)&lt;/a&gt; service, and every penny we make is re-invested into funding further development of free, open source technology for modern journalism.&lt;/p&gt;
+&lt;p&gt;São muito simples as perguntas ?&lt;/p&gt;
 
-&lt;p&gt;The main thing you’ll want to read about next is probably: &lt;a href=&quot;https://demo.ghost.io/the-editor/&quot;&gt;the Ghost editor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Tendo essa noção de onde você esta e para onde você quer ir fica mais fácil de conseguir se planejar e chegar mais rápido e de forma confortável onde você deseja.&lt;/p&gt;
 
-&lt;p&gt;Once you’re done reading, you can simply delete the default &lt;strong&gt;Ghost&lt;/strong&gt; user from your team to remove all of these introductory posts!&lt;/p&gt;</content>
+&lt;p&gt;Eu comecei a utilizar esse metodo em 2021 quando eu comecei a estudar e me consolidar como profissional DevOps/SRE e tinha uma oportunidade de fazer parte da liderança tecnica como especialista. logo eu era :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Um especialista que precisava ser referencia nas práticas.&lt;/li&gt;
+  &lt;li&gt;Preciava assumir a responsábilidade de um ambiente de multiplos times multidesciplinares&lt;/li&gt;
+  &lt;li&gt;precisava lidar com grande aquisições e inserções praticas em times ainda não evangelizados a nivel de cultura devops.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Era muito nítido que com meus conhecimentos não seria dificil chegar a uma posição de estabilidade dentro da empresa que eu estava, afinal é o que buscamos como profissionais e para isso eu precisaria me refinar em algumas habilidades.&lt;/p&gt;
+
+&lt;p&gt;Como eu era consultor em Linux eu já tinha muitos conhecimentos que o mercado via como escasso e não compreendia ainda como DevOps eu resolvi me posicionar como conhecedor da cultura e não somente das ferramentas.&lt;/p&gt;
+
+&lt;p&gt;Aprender ferramentas é muito fácil mas não era ali que a cultura DevOps morava.&lt;/p&gt;
+
+&lt;p&gt;Já conhecia o nosso amigo de cada dia chamado docker, Bash/Shell script era um hábito, que inclusive me ajudava muito já que meu desktop era um linux e eu nunca gostei de tarefas repetitivas, conhecia kubernetes o que já me colocava na frente da maioria do mercado ( e poe até hoje ), já dominava ansible, git, gcp, aws, azure e cicd. O que me faltava ?&lt;/p&gt;
+
+&lt;p&gt;Me faltava a experiência organizacional. Eu não sabia como apoiar times de DevOps de cima ou como trabalhar ao lado do gestor e garantir as entrregas de forma eficiente seguindo de acordo com os KPIs e sem aumentar silos.&lt;/p&gt;
+
+&lt;p&gt;Eu fui contra o que o mercado pedia e escolhi certificações que me davam conhecimento organizacional e me proporcionariam a interação que eu precisava.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.itsmnapratica.com.br/wp-content/uploads/2021/12/SREFoundation-2.png&quot; width=&quot;200&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Meu cloud original era GCP e por isso eu resolvi iniciar em SRE pois era uma pratica normalizada dentro da cultura do cloud google.&lt;/p&gt;
+
+&lt;p&gt;Com essa certificaçlão eu aprendi muitas coisas relativas a risco e negócio. Comecei a pensar com outra cabeça, a do cliente e cada vez mais entender que serviços devem existir com qualidade e sempre se moldar a necessidade do seu principal interessado o cliente.&lt;/p&gt;
+
+&lt;p&gt;Nessa certificação aprendi sobre metricas e como setalas nas ferramentas, ferramentas essas que eu já dominava e não conseguia ainda entregar como eu queria. Essa certificação me fez passar de tecnico para um real engenheiro pois antes de fazer eu passei a pensar em coisas como :&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Quanto esforço eu vou me desprender para azlcançar um objetivo ?
+- Quantos novos problemas eu crio ao resolver um probelma anterior ?
+- É necessário trabalha uma nova feature ao invés de melhorar uma feature que não esta em seu estado perfeito ?
+- Quais tecnologias resolveriam meu problema e nao são praticadas no mercado ?
+- Como monitorar expectativas ?
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Bem, essa certificação me abriu os olhos em muitos pontos e me deu uma posição de bastante prestigio dentro da organização que eu trabalhava pois somou muito a experiência de mercado que eu já tinha.&lt;/p&gt;
+
+&lt;p&gt;Por fim essa foi minha primeira certificação “não tecnica” e respondeus as perguntas de 1 a 3 de uma forma mais que perfeita.
+Outro fato importante é que essa certificação não era capitalizada então eu não precisava refaze-la de tempo em tempo, eu teria ela e ponto, sem renovação.&lt;/p&gt;
+
+&lt;div class=&quot;center&quot;&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-partner=&quot;tweetdeck&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thanks to &lt;a href=&quot;https://twitter.com/gitlab&quot;&gt;@gitlab&lt;/a&gt; for joining &lt;a href=&quot;https://twitter.com/RailsGirlsCluj&quot;&gt;@RailsGirlsCluj&lt;/a&gt;! &lt;a href=&quot;https://t.co/NOoiqDWKVY&quot;&gt;pic.twitter.com/NOoiqDWKVY&lt;/a&gt;&lt;/p&gt;&amp;mdash; RailsGirlsCluj (@RailsGirlsCluj) &lt;a href=&quot;https://twitter.com/RailsGirlsCluj/status/784847271645028352&quot;&gt;October 8, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;/div&gt;</content>
 
       
       
@@ -71,15 +126,13 @@
       
         <category term="postagens" />
       
-        <category term="azure" />
+        <category term="devops" />
       
-        <category term="kubernetes" />
-      
-        <category term="docker" />
+        <category term="carreira" />
       
 
       
-        <summary type="html">Hey! Welcome to Ghost, it’s great to have you :)</summary>
+        <summary type="html">Vamos Planejar nossa carreira ! Nesse post vou falar um pouco como eu penso meu planejamento de carreira 😃🐳🐱☸</summary>
       
 
       
